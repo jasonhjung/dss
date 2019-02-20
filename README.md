@@ -22,6 +22,6 @@ This repo includes the resumes of the following people:
 * I am an exchange student from Yonsei University, South Korea! I study Economics back home and was fascinated to find how data science and statistical analysis are actively used in Economics class here at UC Berkeley. For the first two weeks of Cal, Data Science and coding was intimidating, and I felt like those were things that I can never achieve in life. However, I enrolled in Data 8 and am learning the fundamentals step by step. The more I learned, the more I became attracted to it. So, I challenged myself to take DSS DeCal to be exposed to the world of DS!
 * Jobs interested in: UX Designer, Data Analyst, International Relations
 
-###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
-* 5 sentence summary describing the person from Resume 4.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### Payton McSweeney
+* I am a second year UC Berkeley student studying Data Science with a minor in Computer Science! I am interested in Data Analysis as well as software development. I'm a decent coder with experience in many projects from 61A and 61B, as well as working on my friend's start up company. Which helps visualize data for a number of companies. I am a member of Alpha Chi Omega, a social sorority on campus, for which I have been internal secretary and culture chair. I also participate in a dance organization on campus called AFX. Coding is my passion.
+* Jobs interested in: Data Analyst, Software Engineer, President of DSS (jk)
