@@ -18,9 +18,9 @@ This repo includes the resumes of the following people:
 * I am a recent Hogwarts dropout. I am looking for a position in something related to Defense Against the Dark Arts. I am also experienced with Transfiguration, Potions, and Charms. After dropping out, I embarked on a quest to find Hallows and Horcruxes, and managed to find each and every single one in the space of nine months, a feat which no other wizard or witch was able to do. Some things that make me unique are my abillity to speak to snakes and my Invisibility cloak.
 * Jobs interested in: Auror, Hogwarts Professor, Quidditch Player
 
-###### [Name of Person that Resume 3 is about]
-* 5 sentence summary describing the person from Resume 3.
-* Jobs interested in: [List 3 job titles that this person is looking for. Be relevant and creative!]
+###### Jimin Ahn
+* I am an exchange student from Yonsei University, South Korea! I study Economics back home and was fascinated to find how data science and statistical analysis are actively used in Economics class here at UC Berkeley. For the first two weeks of Cal, Data Science and coding was intimidating, and I felt like those were things that I cannot acheieve in life. However, I enrolled in Data 8 and am learning the fundamentals step by stop. The more I learned, the more I became attracted to it. So, I challenged myself to take DSS DeCal to be exposed to the world of DS!
+* Jobs interested in: UX Designer, Data Analyst, International Relations
 
 ###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
 * 5 sentence summary describing the person from Resume 4.
