@@ -19,7 +19,7 @@ This repo includes the resumes of the following people:
 * Jobs interested in: Auror, Hogwarts Professor, Quidditch Player
 
 ###### Jimin Ahn
-* I am an exchange student from Yonsei University, South Korea! I study Economics back home and was fascinated to find how data science and statistical analysis are actively used in Economics class here at UC Berkeley. For the first two weeks of Cal, Data Science and coding was intimidating, and I felt like those were things that I cannot acheieve in life. However, I enrolled in Data 8 and am learning the fundamentals step by stop. The more I learned, the more I became attracted to it. So, I challenged myself to take DSS DeCal to be exposed to the world of DS!
+* I am an exchange student from Yonsei University, South Korea! I study Economics back home and was fascinated to find how data science and statistical analysis are actively used in Economics class here at UC Berkeley. For the first two weeks of Cal, Data Science and coding was intimidating, and I felt like those were things that I can never achieve in life. However, I enrolled in Data 8 and am learning the fundamentals step by step. The more I learned, the more I became attracted to it. So, I challenged myself to take DSS DeCal to be exposed to the world of DS!
 * Jobs interested in: UX Designer, Data Analyst, International Relations
 
 ###### [(If you have a 4th team member, otherwise delete this entire section) Name of Person that Resume 4 is about]
